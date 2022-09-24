@@ -1,3 +1,12 @@
+# Nest-Setting-Template
+
+## Stack
+* Nx (monorepo framework)
+* Nest.js
+* Prisma
+
+---
+
 # NestWorkspace
 
 This project was generated using [Nx](https://nx.dev).
