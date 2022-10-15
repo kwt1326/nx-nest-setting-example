@@ -1,4 +1,4 @@
-# Nest-Setting-Template
+# Nx-nest-setting-example
 
 ## Stack
 * Nx (monorepo framework)
